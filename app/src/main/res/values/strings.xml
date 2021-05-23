@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Java Quiz</string>
+    <string name="q_1">1. What is the correct way to print a value in Java?</string>
+    <string name="q_1_answer_1">cout &lt;&lt; \"Hello World\"</string>
+    <string name="q_1_answer_2">print(\"Hello World\")</string>
+    <string name="q_1_answer_3">System.out.println(\"Hello World\")</string>
+    <string name="q_1_answer_4">System.print(\"Hello World\")</string>
+    <string name="q_2">2. Which option is the correct one to compare Strings in Java?</string>
+    <string name="q_2_answer_1">str1 == str2</string>
+    <string name="q_2_answer_2">str1.equals(str2)</string>
+    <string name="q_2_answer_3">str1 === str2)</string>
+    <string name="q_2_answer_4">str 2 is str1</string>
+    <string name="q_3">3. How do you insert comments in Java? Check all that apply</string>
+    <string name="q_3_answer_1">/* */</string>
+    <string name="q_3_answer_2">/** */</string>
+    <string name="q_3_answer_3">#</string>
+    <string name="q_3_answer_4">//</string>
+    <string name="q_4">4. Which fundamental concepts in object-oriented programming (OOP) describes
+        the idea of bundling data and methods that work on that data within one unit (class in Java.) </string>
+    <string name="q_5">5. Which data type should be used to store 32 bit number?</string>
+    <string name="q_5_answer_1">long</string>
+    <string name="q_5_answer_2">double</string>
+    <string name="q_5_answer_3">int</string>
+    <string name="q_5_answer_4">float</string>
+    <string name="q_6">6. Method to find the size of an array arr?</string>
+    <string name="q_6_answer_1">arr.size()</string>
+    <string name="q_6_answer_2">Arrays.size(arr)</string>
+    <string name="q_6_answer_3">arr.length</string>
+    <string name="q_6_answer_4">arr.length()</string>
+    <string name="submit">Submit</string>>
+</resources>
